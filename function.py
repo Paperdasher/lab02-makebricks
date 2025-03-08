@@ -4,8 +4,7 @@
 # You will have to LOGICALLY think of the solution on paper before coding, coding the solution is not the intent.
 
 # You will first write test cases in a Driver file, provided to you called Driver.py
-# The tests should print the intended output in addition to the actual output.
-# You should also replace the placeholder text with an actual function call.
+
 
 # Use this function to test how to call different functions in a separate Python file in the same directory
 def test(n):
